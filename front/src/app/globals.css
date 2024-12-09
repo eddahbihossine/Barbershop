@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: 'Z';
+  src: url('/Z.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Dreams';
+  src: url('/DREAMS.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'harmond';
+  src: url('/Harmond.otf') format('opentype');
+}
